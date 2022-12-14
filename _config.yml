@@ -1,12 +1,13 @@
 title: cvivis Blog
 description: backup my studying
 theme: just-the-docs
-
+# Color scheme supports "light" (default) and "dark"
+color_scheme: dark
 # url: https://just-the-docs.github.io
 url : https://cvivis.github.io
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-color_scheme: dark
+
 
