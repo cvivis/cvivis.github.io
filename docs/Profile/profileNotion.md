@@ -10,7 +10,9 @@ permalink: docs/Profile
 
 자기 소개 입력 
 
-![https://images.unsplash.com/photo-1547891654-e66ed7ebb968?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb](https://images.unsplash.com/photo-1547891654-e66ed7ebb968?ixlib=rb-4.0.3&q=80&fm=jpg&crop=entropy&cs=tinysrgb)
+<img src="https://user-images.githubusercontent.com/42718588/207511334-17c159f5-038a-4edf-acf2-c15d44467a01.jpeg" width="200" height="300"/>
+
+
 
 ### Contact.
 
